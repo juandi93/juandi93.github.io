@@ -1,0 +1,237 @@
+body{
+    background-color: cadetblue;
+}
+
+.Juandi img{
+    display: block;
+    margin: auto;
+    border-radius: 80px;
+    height: 300px;
+    width: 250px;
+    
+    }
+
+section#Principal {
+background-color: blanchedalmond;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+    section#Principal h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-style: oblique;
+    text-align:center;
+    font-weight: 300;
+}
+
+section#Principal h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    border: 1px;
+}
+header.Nombre{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align:center;
+    border: #000; 
+    background-color: blanchedalmond;
+    position: sticky;
+}
+section#Experiencia button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:center;
+    font-weight: 300;
+    display: block;
+    margin: auto;
+    background-color: cadetblue;
+    color: aquamarine;
+    
+}
+section#Experiencia {
+    background-color: blanchedalmond;
+}
+section#Experiencia h1{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+
+}
+section#Experiencia p{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+}
+
+section#Experiencia li{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+}
+
+section#Experiencia h2{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+
+}
+section#Experiencia2 h2{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+
+}
+section#Experiencia2 li{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+}
+section#Experiencia h2{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+
+}
+section#Experiencia2 {
+    background-color: blanchedalmond;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    text-align:left;
+}
+
+section#Experiencia2 h2{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+
+}
+section#Experiencia3 h2{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+
+}
+section#Experiencia3 li{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+}
+section#Experiencia3 h2{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+
+}
+section#Experiencia3 {
+    background-color: blanchedalmond;
+}
+
+section#Experiencia3 p{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+}
+section.Estudios h1{
+font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align:center;
+    border: #000; 
+    background-color: blanchedalmond;
+}
+section.Estudios p{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+    margin:auto;
+}
+section.Estudios span{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-style: oblique;
+    text-align:left;
+    margin:auto;
+}
+section.Conocimientos h1{
+    font-family: 'Courier New', Courier, monospace;
+        font-size: 40px;
+        text-align:center;
+        border: #000; 
+        background-color: blanchedalmond;
+    }
+
+    section.Conocimientos p{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+    margin:auto;
+    }
+    section.Conocimientos h2{
+        background-color: blanchedalmond;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        font-style: oblique;
+        text-align:left;
+        }
+
+        section.Conocimientos ul{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align:left;
+    margin-top: 0cm;
+    }
+
+    section.Cursos h1{
+        font-family: 'Courier New', Courier, monospace;
+            font-size: 40px;
+            text-align:center;
+            border: #000; 
+            background-color: blanchedalmond;
+        }
+
+        section.Cursos p{
+            background-color: blanchedalmond;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20px;
+            font-style: oblique;
+            text-align:left;
+            margin-top: 0cm;
+        }
+
+    
